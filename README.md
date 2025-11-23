@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🧪 Promptlyzer Cookbook
+# Promptlyzer
 
-**Production-ready recipes for building intelligent AI applications**
+**Intelligent model routing platform for production AI applications**
 
 [![Website](https://img.shields.io/badge/🌐_Website-promptlyzer.com-5B8FF9?style=for-the-badge)](https://promptlyzer.com)
 [![Python SDK](https://img.shields.io/pypi/v/promptlyzer?style=for-the-badge&logo=python&logoColor=white&label=PyPI&color=3776AB)](https://pypi.org/project/promptlyzer/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-*Master AI infrastructure with examples, best practices, and real-world use cases*
+*Automatically route requests to optimal AI models based on complexity, cost, and latency*
 
 [Quick Start](#-quick-start) • [Examples](#-examples) • [Use Cases](#-use-cases) • [Models](#-supported-models) • [Docs](https://promptlyzer.com/docs)
 
