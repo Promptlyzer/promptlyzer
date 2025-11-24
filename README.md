@@ -10,7 +10,7 @@
 
 *Automatically route requests to optimal AI models based on complexity, cost, and latency*
 
-[Quick Start](#-quick-start) • [Examples](#-examples) • [Use Cases](#-use-cases) • [Models](#-supported-models) • [Docs](https://promptlyzer.com/docs)
+[Quick Start](#quick-start) • [Examples](#examples) • [Use Cases](#use-cases) • [Models](#supported-models) • [Docs](https://promptlyzer.com/docs)
 
 </div>
 
